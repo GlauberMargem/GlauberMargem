@@ -1,4 +1,4 @@
-**<h1 align="center">Olá 👋, me chamo Glauber Lima</h1>
+<h1 align="center">Olá 👋, me chamo Glauber Lima</h1>
 <h3 align="center">Um estudante de Sistemas de Informação e desenvolvedor de software no-code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaubermargem&label=Profile%20views&color=0e75b6&style=flat" alt="glaubermargem" /> </p>
