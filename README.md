@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, me chamo Glauber Lima</h1>
   <h3>Estudante de Sistemas de Informação e Desenvolvedor de Software</h3>
-  <img src="https://komarev.com/ghpvc/?username=glaubermargem&label=Profile%20views&color=0e75b6&style=flat" alt="glaubermargem" />
+  <img src="https://komarev.com/ghpvc/?username=GlauberMargem&label=Profile%20views&color=0e75b6&style=flat" alt="GlauberMargem" />
 </div>
 
 ---
@@ -38,10 +38,10 @@
 ### Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaubermargem&show_icons=true&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glaubermargem&show_icons=true&locale=en&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlauberMargem&show_icons=true&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlauberMargem&show_icons=true&locale=en&layout=compact" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=glaubermargem" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GlauberMargem" />
 </div>
