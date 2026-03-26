@@ -34,14 +34,3 @@
 </div>
 
 ---
-
-### Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlauberMargem&show_icons=true&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlauberMargem&show_icons=true&locale=en&layout=compact" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GlauberMargem" />
-</div>
