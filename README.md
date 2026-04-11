@@ -8,7 +8,6 @@
 
 ### Sobre mim
 
-- Atualmente contribuindo com **Viz Wise | Sistemas para Cartórios**
 - Estudando **Next.js, TypeScript e React**
 - Contato: [LinkedIn](https://www.linkedin.com/in/glauber-margem-989146371/)
 
